@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+h2 {
+font-family: 'Playfair Display', serif;
+font-size: 25px;
+}
+
+body{
+	font-family: helvetica;
+	font-size: 18px;
+}
+
+
+h1 {
+font-family: 'Playfair Display', serif;
+font-size: 25px;
+}
+
+h1:hover{
+	transform: rotate(3deg);
+}
+
+h2:hover {
+		color: blue;
+		transform: skewX(10deg);
+	}
+
